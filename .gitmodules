@@ -7,3 +7,6 @@
 [submodule "Hack_Front"]
 	path = Hack_Front
 	url = https://github.com/LiveisFpv/Hack_Front
+[submodule "fitness_service"]
+	path = fitness_service
+	url = https://github.com/LiveisFpv/fitness_service
