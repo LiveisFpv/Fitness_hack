@@ -1,0 +1,9 @@
+[submodule "gateway_service"]
+	path = gateway_service
+	url = https://github.com/LiveisFpv/gateway_service
+[submodule "authorization_service"]
+	path = authorization_service
+	url = https://github.com/LiveisFpv/authorization_service
+[submodule "Hack_Front"]
+	path = Hack_Front
+	url = https://github.com/LiveisFpv/Hack_Front
