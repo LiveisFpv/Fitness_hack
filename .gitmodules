@@ -10,3 +10,12 @@
 [submodule "fitness_service"]
 	path = fitness_service
 	url = https://github.com/LiveisFpv/fitness_service
+[submodule "ELK_logger_service"]
+	path = ELK_logger_service
+	url = https://github.com/LiveisFpv/ELK_logger_service/
+[submodule "fitness_v1"]
+	path = fitness_v1
+	url = https://github.com/LiveisFpv/fitness_v1
+[submodule "sso_v1"]
+	path = sso_v1
+	url = https://github.com/LiveisFpv/sso_v1
